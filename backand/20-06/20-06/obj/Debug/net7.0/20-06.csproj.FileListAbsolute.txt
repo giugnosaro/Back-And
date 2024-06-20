@@ -1,0 +1,15 @@
+/Users/rosariogiugno/Desktop/backand/20-06/20-06/bin/Debug/net7.0/20-06
+/Users/rosariogiugno/Desktop/backand/20-06/20-06/bin/Debug/net7.0/20-06.deps.json
+/Users/rosariogiugno/Desktop/backand/20-06/20-06/bin/Debug/net7.0/20-06.runtimeconfig.json
+/Users/rosariogiugno/Desktop/backand/20-06/20-06/bin/Debug/net7.0/20-06.dll
+/Users/rosariogiugno/Desktop/backand/20-06/20-06/bin/Debug/net7.0/20-06.pdb
+/Users/rosariogiugno/Desktop/backand/20-06/20-06/obj/Debug/net7.0/20-06.csproj.AssemblyReference.cache
+/Users/rosariogiugno/Desktop/backand/20-06/20-06/obj/Debug/net7.0/20-06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rosariogiugno/Desktop/backand/20-06/20-06/obj/Debug/net7.0/20-06.AssemblyInfoInputs.cache
+/Users/rosariogiugno/Desktop/backand/20-06/20-06/obj/Debug/net7.0/20-06.AssemblyInfo.cs
+/Users/rosariogiugno/Desktop/backand/20-06/20-06/obj/Debug/net7.0/20-06.csproj.CoreCompileInputs.cache
+/Users/rosariogiugno/Desktop/backand/20-06/20-06/obj/Debug/net7.0/20-06.dll
+/Users/rosariogiugno/Desktop/backand/20-06/20-06/obj/Debug/net7.0/refint/20-06.dll
+/Users/rosariogiugno/Desktop/backand/20-06/20-06/obj/Debug/net7.0/20-06.pdb
+/Users/rosariogiugno/Desktop/backand/20-06/20-06/obj/Debug/net7.0/20-06.genruntimeconfig.cache
+/Users/rosariogiugno/Desktop/backand/20-06/20-06/obj/Debug/net7.0/ref/20-06.dll

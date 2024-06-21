@@ -1,0 +1,15 @@
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/esercizio  venerdi 21-06/obj/Debug/net7.0/esercizio  venerdi 21-06.csproj.AssemblyReference.cache
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/esercizio  venerdi 21-06/obj/Debug/net7.0/esercizio  venerdi 21-06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/esercizio  venerdi 21-06/obj/Debug/net7.0/esercizio  venerdi 21-06.AssemblyInfoInputs.cache
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/esercizio  venerdi 21-06/obj/Debug/net7.0/esercizio  venerdi 21-06.AssemblyInfo.cs
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/esercizio  venerdi 21-06/obj/Debug/net7.0/esercizio  venerdi 21-06.csproj.CoreCompileInputs.cache
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/esercizio  venerdi 21-06/bin/Debug/net7.0/esercizio  venerdi 21-06
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/esercizio  venerdi 21-06/bin/Debug/net7.0/esercizio  venerdi 21-06.deps.json
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/esercizio  venerdi 21-06/bin/Debug/net7.0/esercizio  venerdi 21-06.runtimeconfig.json
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/esercizio  venerdi 21-06/bin/Debug/net7.0/esercizio  venerdi 21-06.dll
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/esercizio  venerdi 21-06/bin/Debug/net7.0/esercizio  venerdi 21-06.pdb
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/esercizio  venerdi 21-06/obj/Debug/net7.0/esercizio  venerdi 21-06.dll
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/esercizio  venerdi 21-06/obj/Debug/net7.0/refint/esercizio  venerdi 21-06.dll
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/esercizio  venerdi 21-06/obj/Debug/net7.0/esercizio  venerdi 21-06.pdb
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/esercizio  venerdi 21-06/obj/Debug/net7.0/esercizio  venerdi 21-06.genruntimeconfig.cache
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/esercizio  venerdi 21-06/obj/Debug/net7.0/ref/esercizio  venerdi 21-06.dll

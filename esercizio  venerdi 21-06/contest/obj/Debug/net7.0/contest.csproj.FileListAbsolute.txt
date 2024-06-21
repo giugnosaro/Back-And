@@ -1,0 +1,15 @@
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/contest/bin/Debug/net7.0/contest
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/contest/bin/Debug/net7.0/contest.deps.json
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/contest/bin/Debug/net7.0/contest.runtimeconfig.json
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/contest/bin/Debug/net7.0/contest.dll
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/contest/bin/Debug/net7.0/contest.pdb
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/contest/obj/Debug/net7.0/contest.csproj.AssemblyReference.cache
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/contest/obj/Debug/net7.0/contest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/contest/obj/Debug/net7.0/contest.AssemblyInfoInputs.cache
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/contest/obj/Debug/net7.0/contest.AssemblyInfo.cs
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/contest/obj/Debug/net7.0/contest.csproj.CoreCompileInputs.cache
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/contest/obj/Debug/net7.0/contest.dll
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/contest/obj/Debug/net7.0/refint/contest.dll
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/contest/obj/Debug/net7.0/contest.pdb
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/contest/obj/Debug/net7.0/contest.genruntimeconfig.cache
+/Users/rosariogiugno/Desktop/venerdi/esercizio  venerdi 21-06/contest/obj/Debug/net7.0/ref/contest.dll
